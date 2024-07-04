@@ -26,7 +26,7 @@ A simple Todo App built using React with features to add, edit, mark tasks as co
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/Harika2003/task-manager.git
+    git clone https://github.com/Harika2003/to-do.git
 
     ```
 
@@ -49,7 +49,7 @@ A simple Todo App built using React with features to add, edit, mark tasks as co
         ```bash
         npm start
 
-    Open your browser and visit http://localhost:3000 to view the Todo App.
+    Open your browser and visit http://localhost:3004 to view the Todo App.
 
 ## Usage
 
